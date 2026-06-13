@@ -18,7 +18,7 @@ const education = [
     {
         degree: "Class X — CBSE",
         institution: "Kendriya Vidyalaya, Kathmandu",
-        year: "2020 – 2021",
+        year: "2019 – 2020",
         grade: "93.8%",
         details: "Secondary School Certificate",
     },
