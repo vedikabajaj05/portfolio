@@ -1,0 +1,9 @@
+THINGS I DOWNLOADED:
+lucide react is used for icons used in this portfolio.
+react-router-dom used to navigate between pages.
+tailwind-merge allows us to create a util function that allows us to combine class names in tailwind for easier access and no need to write the entire fucntion names.
+Radix UI for toaster
+class variance authority so that we can copy the component radics uo provides to us
+clsx - used when we add the toaster we are able to use the components provided easily by the radoics UI
+
+utils.js is a place to import all the classanmes from the tailwind at once instead of piling up the classnames in buttons or anything
